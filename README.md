@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohamedAliShosha?tab=repositories](https://github.com/MohamedAliShosha?tab=repositories)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/MohamedAliShosha?tab=repositories)
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **Mohamedaliaboshosha927@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lwzzPIB_uLlw_mp5J71yfbhISxu2gxx9/view?pli=1](https://drive.google.com/file/d/1lwzzPIB_uLlw_mp5J71yfbhISxu2gxx9/view?pli=1)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1lwzzPIB_uLlw_mp5J71yfbhISxu2gxx9/view?pli=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
