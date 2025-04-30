@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohamedalishosha&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedalishosha" />
@@ -11,16 +11,17 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/MohamedAliShosha?tab=repositories)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories]
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **Mohamedaliaboshosha927@gmail.com**
-
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1lwzzPIB_uLlw_mp5J71yfbhISxu2gxx9/view?pli=1)
+- 📄 Know about my experiences: [My CV]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:Mohamedaliaboshosha927@gmail.com">
+    <img align="center" src="https://3.bp.blogspot.com/-O231QKWcdH0/VGIFcFuWo5I/AAAAAAAAPnE/S3a8H6twUoE/s1600/logo_gmail_color_112in128dp.png" alt="Gmail" width="40" height="25" />
+  </a>
   <a href="https://linkedin.com/in/mohamed-ali-23697a265" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ali-23697a265" height="30" width="40" />
   </a>
