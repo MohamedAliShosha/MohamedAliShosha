@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories]
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/MohamedAliShosha?tab=repositories)
 
 - 💬 Ask me about **anything**
 
-- 📄 Know about my experiences: [My CV]
+- 📄 Know about my experiences: [My CV](https://drive.google.com/file/d/1lwzzPIB_uLlw_mp5J71yfbhISxu2gxx9/view?pli=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
