@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/MohamedAliShosha?tab=repositories)
+- 👨‍💻 All of my projects are available at: [My GitHub Repositories](https://github.com/MohamedAliShosha?tab=repositories)
 
 - 💬 Ask me about **anything**
 
