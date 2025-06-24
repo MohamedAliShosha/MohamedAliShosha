@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📄 Know about my experiences: [My CV](https://drive.google.com/file/d/1NvuXBQC0ftdEJTsN-6pRJUeKfZTdpwNU/view?usp=drive_link)
+- 📄 Know about my experiences: [My CV](https://drive.google.com/file/d/1HkNCpTiIgY0SSTkpaLbeCcTowexf6qV_/view?pli=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
