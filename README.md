@@ -5,19 +5,20 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedAliShosha&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
+</p>
 
-- 🌱 I’m currently learning **Flutter Development**
-- 👨‍💻 All of my projects are available at: [My GitHub Repositories](https://github.com/MohamedAliShosha?tab=repositories)
-- 💬 Ask me about **Flutter, Firebase, APIs, or anything tech-related**
+- 🌱 I’m currently learning **Flutter Development**  
+- 👨‍💻 All of my projects are available at: [My GitHub Repositories](https://github.com/MohamedAliShosha?tab=repositories)  
+- 💬 Ask me about **Flutter, Firebase, APIs, or anything tech-related**  
 - 📄 Know about my experiences: [My CV](https://drive.google.com/file/d/1HkNCpTiIgY0SSTkpaLbeCcTowexf6qV_/view?pli=1)
-
----
 
 ## 🔗 Connect with Me
 
 <p align="left">
   <a href="mailto:Mohamedaliaboshosha927@gmail.com">
-    <img align="center" src="https://3.bp.blogspot.com/-O231QKWcdH0/VGIFcFuWo5I/AAAAAAAAPnE/S3a8H6twUoE/s1600/logo_gmail_color_112in128dp.png" alt="Gmail" width="40" height="25" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="30" height="30" />
   </a>
   <a href="https://linkedin.com/in/mohamed-ali-23697a265" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -26,8 +27,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -57,8 +56,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
