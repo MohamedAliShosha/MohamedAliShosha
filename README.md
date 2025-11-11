@@ -10,9 +10,7 @@
 </p>
 
 - 🌱 I’m currently learning **Flutter Development**  
-- 👨‍💻 All of my projects are available at: [My GitHub Repositories](https://github.com/MohamedAliShosha?tab=repositories)  
 - 💬 Ask me about **Flutter, Firebase, APIs, or anything tech-related**  
-- 📄 Know about my experiences: [My CV](https://drive.google.com/file/d/1HkNCpTiIgY0SSTkpaLbeCcTowexf6qV_/view?pli=1)
 
 
 ## 🛠️ Languages & Tools
