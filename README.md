@@ -3,14 +3,16 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h3 align="center">A passionate Flutter developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedAliShosha&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
 </p>
 
 - 🌱 I’m currently learning **Flutter Development**  
-- 💬 Ask me about **Flutter, Firebase, APIs, or anything tech-related**  
+- 💬 Ask me about anything
+- 📫 How to reach me: mohamedaliaboshosha927@gmail.com
+- ⚡ Fun fact: always learning  
 
 
 ## 🛠️ Languages & Tools
@@ -42,16 +44,4 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAliShosha&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShosha&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MohamedAliShosha&theme=radical" alt="GitHub Streak" />
-</p>
